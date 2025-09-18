@@ -1,0 +1,15 @@
+node_modules/
+pl-data/Dialogues3/
+pl-data/Dialogues3/json/
+!pl-data/Dialogues3/json/1.json
+!pl-data/Dialogues3/json/1-triggermap.json
+Intermediate/
+Saved/
+*_BuiltData.uasset
+.DS_Store
+/Build/
+Binaries/
+
+/steamworks_sdk_160/
+!/steamworks_sdk_160/sdk/tools/ContentBuilder/scripts/*
+/steam-output/
